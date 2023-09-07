@@ -6,3 +6,5 @@ def snooker(n):
     print(t)
 
 snooker(12)
+
+tes
