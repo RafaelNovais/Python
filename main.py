@@ -7,4 +7,3 @@ def snooker(n):
 
 snooker(12)
 
-tes
