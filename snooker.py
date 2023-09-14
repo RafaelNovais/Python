@@ -6,3 +6,6 @@ def snooker(n):
     print(t)
 
 snooker(12)
+
+x = lambda a : a + 10
+print(x(5))
